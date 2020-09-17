@@ -18,7 +18,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.26",
     "gatsby-plugin-nprogress": "^2.1.12",
     "gatsby-plugin-offline": "^3.0.17",
-    "gatsby-plugin-postcss": "^2.1.13",
+    "gatsby-plugin-postcss": "^2.3.12",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-sharp": "^2.2.36",
